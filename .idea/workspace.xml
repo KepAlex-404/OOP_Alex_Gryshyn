@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b12a4975-7f48-4d40-abde-0cb85428d370" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZMBJJXDTdNshVAOPMtdqpmQFdV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager" selected="Application.lab002">
+    <configuration name="WordCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordCounter" />
+      <module name="OOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab002" />
+      <module name="OOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab03" />
+      <module name="OOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab04" />
+      <module name="OOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="OOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.lab002" />
+        <item itemvalue="Application.lab03" />
+        <item itemvalue="Application.WordCounter" />
+        <item itemvalue="Application.lab04" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b12a4975-7f48-4d40-abde-0cb85428d370" name="Default Changelist" comment="" />
+      <created>1584639009668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584639009668</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="161" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589650275531">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="141" y="161" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1589650275531" />
+    <state x="2014" y="152" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.0.1280.994@1920.0.1280.994" timestamp="1585910053128" />
+    <state x="677" y="183" key="#lab01_(1)" timestamp="1588264010761">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="677" y="183" key="#lab01_(1)/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1588264010761" />
+    <state x="677" y="183" key="#lab01_(2)" timestamp="1588264025876">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="677" y="183" key="#lab01_(2)/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1588264025875" />
+    <state x="739" y="266" key="FileChooserDialogImpl" timestamp="1585245718083">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="739" y="266" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1585245718083" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1590750924107">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1590750924107" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1590750924106">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1590750924106" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1590750924106">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1590750924106" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1590750924107">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1590750924107" />
+    <state x="461" y="167" key="SettingsEditor" timestamp="1589647591477">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="167" key="SettingsEditor/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1589647591477" />
+    <state x="2452" y="313" key="com.intellij.ide.util.TipDialog" timestamp="1590750331859">
+      <screen x="1920" y="0" width="1280" height="994" />
+    </state>
+    <state x="2452" y="313" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1590750331859" />
+    <state x="342" y="145" key="new project wizard" timestamp="1585245722904">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="342" y="145" key="new project wizard/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1585245722904" />
+    <state x="616" y="178" width="670" height="676" key="search.everywhere.popup" timestamp="1589036952868">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="178" width="670" height="676" key="search.everywhere.popup/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1589036952868" />
+  </component>
+</project>
