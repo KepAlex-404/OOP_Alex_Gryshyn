@@ -72,11 +72,13 @@ public class lab03 {
 
     }
 
-    public static int find(String s, char a) {
+    public static int find(String s, char a)
+    {
         int k = 0;
 
         s = s.toLowerCase();
-        for (int i = 0; i < s.length(); i++) {
+        for (int i = 0; i < s.length(); i++)
+        {
             if ((s.charAt(i)==a))
                 k++;
         }

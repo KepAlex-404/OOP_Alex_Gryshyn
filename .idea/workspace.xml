@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b12a4975-7f48-4d40-abde-0cb85428d370" name="Default Changelist" comment="" />
+    <list default="true" id="b12a4975-7f48-4d40-abde-0cb85428d370" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/lab03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/lab03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/lab5/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/lab5/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/lab5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/lab5/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/lab5/Sentence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/lab5/Sentence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/lab5/Text.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/lab5/Text.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab5/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab5/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab5/Sentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab5/Sentence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab5/Text.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab5/Text.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab5/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab5/main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,8 +113,35 @@
       <option name="project" value="LOCAL" />
       <updated>1591123562849</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new lab5">
+      <created>1591123605141</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591123605141</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new lab5">
+      <created>1591179660729</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591179660729</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -119,6 +158,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591122858254" />
+    <state x="690" y="272" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1591182451613">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="272" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591182451613" />
     <state x="677" y="183" key="#lab01_(1)" timestamp="1588264010761">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -127,42 +170,50 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="677" y="183" key="#lab01_(2)/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1588264025875" />
-    <state x="614" y="119" key="CommitChangelistDialog2" timestamp="1591123603705">
+    <state x="614" y="119" key="CommitChangelistDialog2" timestamp="1591179658745">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="614" y="119" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591123603705" />
+    <state x="614" y="119" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591179658745" />
     <state x="739" y="266" key="FileChooserDialogImpl" timestamp="1585245718083">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="739" y="266" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1585245718083" />
-    <state width="1877" height="183" key="GridCell.Tab.0.bottom" timestamp="1591122858475">
+    <state width="1877" height="183" key="GridCell.Tab.0.bottom" timestamp="1591189451273">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="183" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591122858475" />
-    <state width="1877" height="183" key="GridCell.Tab.0.center" timestamp="1591122858475">
+    <state width="1877" height="183" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591189451273" />
+    <state width="1877" height="183" key="GridCell.Tab.0.center" timestamp="1591189451273">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="183" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591122858475" />
-    <state width="1877" height="183" key="GridCell.Tab.0.left" timestamp="1591122858475">
+    <state width="1877" height="183" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591189451273" />
+    <state width="1877" height="183" key="GridCell.Tab.0.left" timestamp="1591189451273">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="183" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591122858475" />
-    <state width="1877" height="183" key="GridCell.Tab.0.right" timestamp="1591122858475">
+    <state width="1877" height="183" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591189451273" />
+    <state width="1877" height="183" key="GridCell.Tab.0.right" timestamp="1591189451273">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="183" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591122858475" />
+    <state width="1877" height="183" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591189451273" />
     <state x="461" y="167" key="SettingsEditor" timestamp="1589647591477">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="167" key="SettingsEditor/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1589647591477" />
-    <state x="2452" y="313" key="com.intellij.ide.util.TipDialog" timestamp="1591121184258">
+    <state x="2452" y="313" key="com.intellij.ide.util.TipDialog" timestamp="1591178028129">
       <screen x="1920" y="0" width="1280" height="994" />
     </state>
-    <state x="2452" y="313" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591121184258" />
+    <state x="2452" y="313" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591178028129" />
     <state x="342" y="145" key="new project wizard" timestamp="1585245722904">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="342" y="145" key="new project wizard/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1585245722904" />
+    <state x="702" y="144" key="refactoring.ChangeSignatureDialog" timestamp="1591180930834">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="702" y="144" key="refactoring.ChangeSignatureDialog/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591180930834" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1591182102616">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591182102616" />
     <state x="616" y="178" width="670" height="676" key="search.everywhere.popup" timestamp="1589036952868">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
