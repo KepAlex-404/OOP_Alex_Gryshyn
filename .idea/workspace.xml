@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b12a4975-7f48-4d40-abde-0cb85428d370" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab5/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab5/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab5/Sentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab5/Sentence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591189495076</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="upd lab5">
+      <created>1591205691284</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591205691285</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,10 +178,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="677" y="183" key="#lab01_(2)/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1588264025875" />
-    <state x="614" y="119" key="CommitChangelistDialog2" timestamp="1591189492875">
+    <state x="614" y="119" key="CommitChangelistDialog2" timestamp="1591205683836">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="614" y="119" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591189492875" />
+    <state x="614" y="119" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591205683836" />
     <state x="739" y="266" key="FileChooserDialogImpl" timestamp="1585245718083">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -209,6 +218,10 @@
       <screen x="1920" y="0" width="1280" height="994" />
     </state>
     <state x="2452" y="313" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591205582600" />
+    <state x="769" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591206196778">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="769" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591206196778" />
     <state x="342" y="145" key="new project wizard" timestamp="1585245722904">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

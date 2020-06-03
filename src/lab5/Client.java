@@ -12,7 +12,8 @@ public class Client
         this.a = a;
     }
 
-    public void startLiveInTheSystem() {
+    public void startLiveInTheSystem()
+    {
         System.out.println("Word in order: " + text.sortAll(a));
     }
 

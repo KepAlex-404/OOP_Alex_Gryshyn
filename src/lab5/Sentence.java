@@ -84,24 +84,6 @@ public class Sentence {
         return String.valueOf(sb);
     }
 
-    public int findWordEntrancesQuantity(String wordString)
-    {
-        int wordEntrancesQuantity = 0;
-
-        for (SentenceElement sentenceElement : sentenceElements)
-        {
-            if (sentenceElement instanceof Word)
-            {
-                Word word = (Word) sentenceElement;
-                if (word.equalsString(wordString))
-                {
-                    wordEntrancesQuantity++;
-                }
-            }
-        }
-
-        return wordEntrancesQuantity;
-    }
 
     public static int find(String s, char a)
     {
