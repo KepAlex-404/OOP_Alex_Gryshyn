@@ -8,7 +8,7 @@ public class Client {
     }
 
     public void startLiveInTheSystem() {
-        System.out.println("Word entrances quantity: " + text.findWordEntrancesQuantity("Hello"));
+        System.out.println("Word entrances quantity: " + Text.task(text.toString(),'a'));
     }
 
 }
