@@ -52,7 +52,8 @@ public class Sentence {
             int n = 0;
 
             //пошук кількості слів у тексті
-            for (int k1 = 0; k1 < sb.length(); k1++) {
+            for (int k1 = 0; k1 < sb.length(); k1++)
+            {
                 if (sb.charAt(k1) == tab)
                     n++;
             }
@@ -61,16 +62,19 @@ public class Sentence {
             int i = 0;
 
             //сортування бульбашкою
-            for (int j2 = 0; j2 < n - 1; j2++) {
+            for (int j2 = 0; j2 < n - 1; j2++)
+            {
                 i = 0;
-                for (int i2 = 1; i2 < (n - j2); i2++) {
+                for (int i2 = 1; i2 < (n - j2); i2++)
+                {
                     word1 = (sb.substring(i, sb.indexOf(str, i)))
                             .trim();//і-те слово
                     nlet1 = find(word1,a);
                     word2 =(sb.substring(word1.length() + i,
                             sb.indexOf(str, word1.length() + i + 1))).trim();
                     nlet2 = find(word2,a);//і+1 слово
-                    if (nlet1 > nlet2) {
+                    if (nlet1 > nlet2)
+                    {
                         buf = word1;
                         sb.replace(i, word1.length() + i, word2);
                         i += word2.length() + 1;

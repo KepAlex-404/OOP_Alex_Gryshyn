@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b12a4975-7f48-4d40-abde-0cb85428d370" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab5/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab5/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lab5/Sentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab5/Sentence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab5/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab5/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591205691285</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="upd lab5">
+      <created>1591206209033</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591206209033</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,10 +185,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="677" y="183" key="#lab01_(2)/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1588264025875" />
-    <state x="614" y="119" key="CommitChangelistDialog2" timestamp="1591205683836">
+    <state x="614" y="119" key="CommitChangelistDialog2" timestamp="1591206205862">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="614" y="119" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591205683836" />
+    <state x="614" y="119" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591206205862" />
+    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1591208999568">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591208999568" />
     <state x="739" y="266" key="FileChooserDialogImpl" timestamp="1585245718083">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -202,18 +213,18 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="183" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591199831625" />
-    <state x="829" y="236" key="RollbackChangesDialog" timestamp="1591196276832">
+    <state x="829" y="236" key="RollbackChangesDialog" timestamp="1591208925716">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="829" y="236" key="RollbackChangesDialog/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591196276832" />
+    <state x="829" y="236" key="RollbackChangesDialog/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591208925716" />
     <state x="461" y="167" key="SettingsEditor" timestamp="1589647591477">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="167" key="SettingsEditor/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1589647591477" />
-    <state x="748" y="259" key="VcsDiffUtil.ChangesDialog" timestamp="1591196228234">
+    <state x="748" y="259" key="VcsDiffUtil.ChangesDialog" timestamp="1591208983210">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="748" y="259" key="VcsDiffUtil.ChangesDialog/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591196228234" />
+    <state x="748" y="259" key="VcsDiffUtil.ChangesDialog/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591208983210" />
     <state x="2452" y="313" key="com.intellij.ide.util.TipDialog" timestamp="1591205582600">
       <screen x="1920" y="0" width="1280" height="994" />
     </state>
@@ -222,10 +233,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="769" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591206196778" />
-    <state x="342" y="145" key="new project wizard" timestamp="1585245722904">
+    <state x="342" y="145" key="new project wizard" timestamp="1591208902025">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="342" y="145" key="new project wizard/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1585245722904" />
+    <state x="342" y="145" key="new project wizard/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591208902025" />
     <state x="702" y="144" key="refactoring.ChangeSignatureDialog" timestamp="1591180930834">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
