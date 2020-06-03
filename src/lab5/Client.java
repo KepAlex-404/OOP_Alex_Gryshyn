@@ -1,11 +1,13 @@
 package lab5;
 
-public class Client {
+public class Client
+{
     private Text text;
     private Character a;
 
 
-    public Client(Text text, Character a) {
+    public Client(Text text, Character a)
+    {
         this.text = text;
         this.a = a;
     }
