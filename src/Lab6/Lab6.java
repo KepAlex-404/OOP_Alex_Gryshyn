@@ -7,53 +7,63 @@ public class Lab6
     public static void main(String[] args)
     {
         /**
-         * створюємо різну амуніцію
+         * дабавляем разные вагоны
          */
-        Armor armor = new Armor("armor1", 100, 20.5);
-        Sword sword = new Sword("sword1", 120, 10.8);
-        Helmet helmet = new Helmet("helmet1", 60, 3.8);
+        Luxury lux1 = new Luxury("Lux1", 10.0, 15, 30);
+        Luxury lux2 = new Luxury("Lux2", 9.8, 150, 30);
+
         /**
-         * ствоорюємо масив амуніції для екіпіровки
-         * одного лицаря
+         * создаем масив вагонов одного поезда
          */
         ArrayList<Wagon> am = new ArrayList<Wagon>();
-        am.add(helmet);
-        am.add(sword);
-        am.add(armor);
+//        am.add(helmet);
+        am.add(lux1);
+        am.add(lux2);
+
+//        am.add(armor);
 
         for (Wagon ammunition : am)
         {
             System.out.println(ammunition.getInformation());
         }
 
-        Train chevalier = new Train(am);
-        System.out.print("Вартість амуніції лицаря: ");
+        Train train = new Train(am);
+        System.out.print("Кол-во пассажиров и багажа:\n");
 
 
-        /**рахуємо вартість амуніції лицаря*/
-        System.out.println(chevalier.getPriceAmmunition());
-        /**сортуємо за вагою*/
-        chevalier.sortAmmunition(am);
-        System.out.println("\nВідсортована амуніція");
+        /**кол-во пассажиров*/
+        System.out.println(train.getCapacity());
+        /**кол-во багажа*/
+        System.out.println(train.getWeight());
+
+
+        /**сортируем по кофморту*/
+        train.sortTrain(am);
+        System.out.println("\nОтсортированые вагончики:");
 
         for (int i = 0; i < am.size(); i++)
         {
-            System.out.println(( chevalier.getAmmunition().get(i)).getInformation());
+            System.out.println(( train.getTrain().get(i)).getInformation());
         }
 
-        /**діапазон цін для амуніції*/
-        int minPrice = 15; int maxPrice = 100;
-        System.out.println("\nAмуніція із вибраного діапазону цін: " + minPrice + "-" + maxPrice);
 
+        /**поиск вагончика в диапазоне*/
+        int minCapacity = 15; int maxCapacity = 100;
+        System.out.println("\nВагоны к кол-вом пассажиров в таком диапазоне: " + minCapacity + "-" + maxCapacity);
 
-        /**пошук амуніції по заданому діапазоні*/
-        for (int i = 0; i < am.size(); i++)
-        {
-            if ((am.get(i).getPrice() >= minPrice) && (am.get(i).getPrice() <= maxPrice))
-            {
-                System.out.println(am.get(i).getInformation());
+        for (Wagon wagon : am) {
+            if ((wagon.getCapacity() >= minCapacity) && (wagon.getCapacity() <= maxCapacity)) {
+                System.out.println(wagon.getInformation());
             }
         }
+//        for (int i = 0; i < am.size(); i++)
+//        {
+//            if ((am.get(i).getCapacity() >= minCapacity) && (am.get(i).getCapacity() <= maxCapacity))
+//            {
+//                System.out.println(am.get(i).getInformation());
+//            }
+//        }
+
 
     }
 }

@@ -1,52 +1,61 @@
 package Lab6;
 
 
-public class Wagon {
-    /**ціна */
-    private int price;
-    /**вага*/
-    private double weight;
+public class Wagon
+{
+    /**местимость */
+    private int capacity;
+    /**вес багажа*/
+    private int weight;
+    private String name;
     /**назва*/
-    private String name_am;
+    private Double commodity;
     /**
      *
-     * @param name назва амуніції
-     * @param p ціна амуніції
+     * @param name тип вагона
+     * @param cozy назва амуніції
+     * @param c ціна амуніції
      * @param w вага амуніції
      */
 
-    public Wagon (String name, int p , double w){
-        name_am=name;
-        price=p;
+    public Wagon(String w_name, Double cozy, int c, int w)
+    {
+        commodity=cozy;
+        capacity=c;
         weight=w;
+        name = w_name;
     }
     /**
      *
      * @return ціну
      */
-    public int getPrice(){
-        return price;
+    public int getCapacity()
+    {
+        return capacity;
     }
     /**
      *
      * @return вагу
      */
-    public double getWeight(){
+    public int getWeight()
+    {
         return weight;
     }
     /**
      *
      * @return назву амуніції
      */
-    public String getName() {
-        return name_am;
+    public Double getCozy()
+    {
+        return commodity;
     }
     /**
      *
      * @return інформацію про предмет амуніції
      */
-    public String getInformation(){
-        return "Name:" +name_am+" Price:"+String.valueOf(price)+" Weight:"+String.valueOf(weight);
+    public String getInformation()
+    {
+        return "Name: "+name+" Cozy: " +commodity+" Capacity: "+String.valueOf(capacity)+" Weight: "+String.valueOf(weight);
     }
 
 }
