@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b12a4975-7f48-4d40-abde-0cb85428d370" name="Default Changelist" comment="new lab6">
-      <change afterPath="$PROJECT_DIR$/src/Lab6/Kupe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab6/Luxury.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab6/Plazkart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OOP/lab5/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/lab5/Client.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OOP/lab5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/lab5/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OOP/lab5/Sentence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP/lab5/Sentence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab6/Armor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab6/Helmet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab6/Kupe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab6/Kupe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lab6/Lab6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab6/Lab6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab6/Sword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab6/Luxury.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab6/Luxury.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab6/Plazkart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab6/Plazkart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lab6/Train.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab6/Train.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lab6/Wagon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab6/Wagon.java" afterDir="false" />
     </list>
@@ -177,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591375812913</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="fix lab6">
+      <created>1591380545400</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1591380545400</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,7 +202,8 @@
     <MESSAGE value="new lab5" />
     <MESSAGE value="upd lab5" />
     <MESSAGE value="new lab6" />
-    <option name="LAST_COMMIT_MESSAGE" value="new lab6" />
+    <MESSAGE value="fix lab6" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix lab6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="141" y="161" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589650275531">
@@ -222,10 +227,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="677" y="183" key="#lab01_(2)/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1588264025875" />
-    <state x="614" y="119" key="CommitChangelistDialog2" timestamp="1591375810792">
+    <state x="614" y="119" key="CommitChangelistDialog2" timestamp="1591380543570">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="614" y="119" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591375810792" />
+    <state x="614" y="119" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591380543570" />
     <state x="92" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1591208999568">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -234,22 +239,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="739" y="266" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1585245718083" />
-    <state width="1877" height="235" key="GridCell.Tab.0.bottom" timestamp="1591380105089">
+    <state width="1877" height="184" key="GridCell.Tab.0.bottom" timestamp="1591381053410">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="235" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591380105089" />
-    <state width="1877" height="235" key="GridCell.Tab.0.center" timestamp="1591380105089">
+    <state width="1877" height="184" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591381053410" />
+    <state width="1877" height="184" key="GridCell.Tab.0.center" timestamp="1591381053409">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="235" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591380105089" />
-    <state width="1877" height="235" key="GridCell.Tab.0.left" timestamp="1591380105089">
+    <state width="1877" height="184" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591381053409" />
+    <state width="1877" height="184" key="GridCell.Tab.0.left" timestamp="1591381053409">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="235" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591380105089" />
-    <state width="1877" height="235" key="GridCell.Tab.0.right" timestamp="1591380105089">
+    <state width="1877" height="184" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591381053409" />
+    <state width="1877" height="184" key="GridCell.Tab.0.right" timestamp="1591381053410">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="235" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591380105089" />
+    <state width="1877" height="184" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1280.994@0.0.1920.1050" timestamp="1591381053410" />
     <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1591372801948">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

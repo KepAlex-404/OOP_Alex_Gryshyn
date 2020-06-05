@@ -1,7 +1,8 @@
 package Lab6;
 
 
-public class Kupe extends Wagon{
+public class Kupe extends Wagon
+{
 
     public Kupe(String name, Double cozy, int c, int w)
     {

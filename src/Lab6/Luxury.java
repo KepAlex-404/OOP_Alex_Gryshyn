@@ -1,7 +1,8 @@
 package Lab6;
 
 
-public class Luxury extends Wagon{
+public class Luxury extends Wagon
+{
 
     public Luxury(String name, Double cozy, int c, int w)
     {
@@ -11,7 +12,6 @@ public class Luxury extends Wagon{
 
     public String getInformation()
     {
-
         String name = "Люкс";
         return "Тип "+ name + " "+super.getInformation();
     }

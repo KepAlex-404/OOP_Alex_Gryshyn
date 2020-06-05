@@ -1,7 +1,8 @@
 package Lab6;
 
 
-public class Plazkart extends Wagon{
+public class Plazkart extends Wagon
+{
 
     public Plazkart(String name, Double cozy, int c, int w)
     {
