@@ -262,7 +262,13 @@ public class MySet<E> implements Set<Wagon> {
      */
     @Override
     public boolean containsAll(Collection<?> c) {
-        return false;
+        MyIterator iterator = (MyIterator)c.iterator();
+        while (iterator.hasNext()) {
+            if (!contains(iterator.next())){
+                return false;
+            }
+        }
+        return true;
     }
 
     /**
@@ -477,16 +483,6 @@ public class MySet<E> implements Set<Wagon> {
 
 
     }
-
-//    @Override
-//    public ListIterator<Wagon> listIterator(int index) {
-//        return null;
-//    }
-//
-//    @Override
-//    public List<Wagon> subList(int fromIndex, int toIndex) {
-//        return null;
-//    }
 
 
 }

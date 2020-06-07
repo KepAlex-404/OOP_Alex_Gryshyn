@@ -14,6 +14,9 @@ public class Main {
 
         Wagon plazkart = new Wagon("Plazkart1",3.5,50,120);
 
+
+        MySet empty_set = new MySet();
+
         mySet.add(new Wagon("Lux2", 10.0, 15, 30));
         mySet.add(new Wagon("Lux3", 10.0, 15, 30));
 
