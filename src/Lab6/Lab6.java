@@ -60,13 +60,6 @@ public class Lab6
                 System.out.println(wagon.getInformation());
             }
         }
-//        for (int i = 0; i < am.size(); i++)
-//        {
-//            if ((am.get(i).getCapacity() >= minCapacity) && (am.get(i).getCapacity() <= maxCapacity))
-//            {
-//                System.out.println(am.get(i).getInformation());
-//            }
-//        }
 
 
     }
