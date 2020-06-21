@@ -38,6 +38,8 @@ public class Wagon
         return commodity;
     }
 
+    //todo smth
+
     public String getInformation()
     {
         return "Name: "+name+" Cozy: " +commodity+" Capacity: "+String.valueOf(capacity)+" Weight: "+String.valueOf(weight);

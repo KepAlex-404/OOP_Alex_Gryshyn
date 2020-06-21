@@ -1,7 +1,6 @@
 package lab7;
 
 
-
 import java.util.*;
 
 public class MySet<E> implements Set<Wagon> {
@@ -293,7 +292,8 @@ public class MySet<E> implements Set<Wagon> {
 //     * @see #add(Object)
      */
     @Override
-    public boolean addAll(Collection<? extends Wagon> c) {
+    public boolean addAll(Collection<? extends Wagon> c)
+    {
         boolean isCollectionChanged = false;
         for (Wagon wagon : c) {
             isCollectionChanged |= add(wagon);
