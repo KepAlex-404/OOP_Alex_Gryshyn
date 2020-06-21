@@ -38,7 +38,7 @@ public class Wagon
         return commodity;
     }
 
-    //todo smth
+    //@todo smth
 
     public String getInformation()
     {
