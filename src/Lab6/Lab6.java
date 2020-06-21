@@ -51,7 +51,7 @@ public class Lab6
         }
 
 
-        /*поиск вагончика в диапазоне*/
+        /*todo smth*/
         int minCapacity = 15; int maxCapacity = 25;
         System.out.println("\nВагоны к кол-вом пассажиров в таком диапазоне: " + minCapacity + "-" + maxCapacity);
 
